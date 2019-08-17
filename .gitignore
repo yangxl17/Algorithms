@@ -7,3 +7,5 @@
 /OrderStatistics/OrderStatistics.vcxproj
 /OrderStatistics/OrderStatistics.sln
 /OrderStatistics/.vs/OrderStatistics/v16
+/.vs
+/OrderStatistics/Debug
